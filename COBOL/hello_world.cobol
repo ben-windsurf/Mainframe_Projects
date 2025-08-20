@@ -16,6 +16,9 @@ FD  OUTPUT-FILE.
 WORKING-STORAGE SECTION.
 01  WS-MESSAGE       PIC X(80) VALUE "Hello, World! This is Ashley's Mainframe Magic!".
 01  WS-UNDEFINED-VAR PIC 9(5).
+01  WS-UNUSED-COUNTER PIC 9(3) VALUE 0.
+01  WS-DEAD-FLAG     PIC X VALUE "N".
+01  WS-TEMP-STORAGE  PIC X(50).
 
 PROCEDURE DIVISION.
     OPEN OUTPUT OUTPUT-FILE
@@ -24,4 +27,8 @@ PROCEDURE DIVISION.
     DISPLAY "Processing complete"
     CLOSE OUTPUT-FILE
     DISPLAY "File written successfully!"
-    STOP RUN
+    STOP RUN.
+    
+    DISPLAY "This code will never execute"
+    MOVE "DEAD" TO WS-DEAD-FLAG
+    ADD 1 TO WS-UNUSED-COUNTER

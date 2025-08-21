@@ -1,0 +1,51 @@
+sale_id,customer_id,product_id,product_name,category,sale_date,quantity,unit_price,total_amount,sales_rep_id,sales_rep_name,commission_rate,discount_applied
+2001,1001,P001,Laptop Pro X1,Electronics,2024-01-15,2,1299.99,2599.98,R001,Alice Cooper,0.05,0.00
+2002,1002,P002,Office Chair Deluxe,Furniture,2024-01-16,1,459.99,459.99,R002,Bob Wilson,0.03,0.10
+2003,1003,P003,Smartphone Ultra,Electronics,2024-01-17,3,899.99,2699.97,R001,Alice Cooper,0.05,0.05
+2004,1004,P004,Standing Desk,Furniture,2024-01-18,1,799.99,799.99,R003,Carol Davis,0.04,0.00
+2005,1005,P001,Laptop Pro X1,Electronics,2024-01-19,1,1299.99,1299.99,R002,Bob Wilson,0.05,0.15
+2006,1006,P005,Wireless Headphones,Electronics,2024-01-20,2,199.99,399.98,R001,Alice Cooper,0.03,0.00
+2007,1007,P006,Coffee Machine Pro,Appliances,2024-01-21,1,349.99,349.99,R004,David Miller,0.04,0.20
+2008,1008,P002,Office Chair Deluxe,Furniture,2024-01-22,2,459.99,919.98,R002,Bob Wilson,0.03,0.00
+2009,1009,P007,Smart TV 65inch,Electronics,2024-01-23,1,1199.99,1199.99,R003,Carol Davis,0.06,0.10
+2010,1010,P008,Blender Supreme,Appliances,2024-01-24,1,129.99,129.99,R004,David Miller,0.02,0.00
+2011,1011,P003,Smartphone Ultra,Electronics,2024-01-25,2,899.99,1799.98,R001,Alice Cooper,0.05,0.00
+2012,1012,P009,Gaming Console X,Electronics,2024-01-26,1,499.99,499.99,R002,Bob Wilson,0.04,0.25
+2013,1013,P004,Standing Desk,Furniture,2024-01-27,1,799.99,799.99,R003,Carol Davis,0.04,0.00
+2014,1014,P010,Microwave Deluxe,Appliances,2024-01-28,1,199.99,199.99,R004,David Miller,0.03,0.05
+2015,1015,P001,Laptop Pro X1,Electronics,2024-01-29,1,1299.99,1299.99,R001,Alice Cooper,0.05,0.00
+2016,1016,P011,Bookshelf Oak,Furniture,2024-01-30,2,299.99,599.98,R002,Bob Wilson,0.03,0.15
+2017,1017,P005,Wireless Headphones,Electronics,2024-02-01,3,199.99,599.97,R003,Carol Davis,0.03,0.00
+2018,1018,P012,Air Fryer Pro,Appliances,2024-02-02,1,179.99,179.99,R004,David Miller,0.03,0.10
+2019,1019,P007,Smart TV 65inch,Electronics,2024-02-03,1,1199.99,1199.99,R001,Alice Cooper,0.06,0.00
+2020,1020,P013,Tablet Ultra,Electronics,2024-02-04,2,599.99,1199.98,R002,Bob Wilson,0.04,0.20
+2021,1021,P006,Coffee Machine Pro,Appliances,2024-02-05,1,349.99,349.99,R003,Carol Davis,0.04,0.00
+2022,1022,P002,Office Chair Deluxe,Furniture,2024-02-06,1,459.99,459.99,R004,David Miller,0.03,0.00
+2023,1023,P014,Vacuum Cleaner Robot,Appliances,2024-02-07,1,399.99,399.99,R001,Alice Cooper,0.04,0.30
+2024,1024,P003,Smartphone Ultra,Electronics,2024-02-08,1,899.99,899.99,R002,Bob Wilson,0.05,0.00
+2025,1025,P015,Monitor 4K 32inch,Electronics,2024-02-09,2,699.99,1399.98,R003,Carol Davis,0.05,0.10
+2026,1001,P016,Wireless Mouse,Electronics,2024-02-10,5,49.99,249.95,R004,David Miller,0.02,0.00
+2027,1002,P017,Desk Lamp LED,Furniture,2024-02-11,2,89.99,179.98,R001,Alice Cooper,0.02,0.05
+2028,1003,P018,Food Processor,Appliances,2024-02-12,1,249.99,249.99,R002,Bob Wilson,0.03,0.00
+2029,1004,P019,Ergonomic Keyboard,Electronics,2024-02-13,3,129.99,389.97,R003,Carol Davis,0.03,0.15
+2030,1005,P020,Dining Table Set,Furniture,2024-02-14,1,899.99,899.99,R004,David Miller,0.05,0.00
+2031,1006,P021,Smart Watch Pro,Electronics,2024-02-15,1,399.99,399.99,R001,Alice Cooper,0.04,0.25
+2032,1007,P022,Refrigerator Mini,Appliances,2024-02-16,1,299.99,299.99,R002,Bob Wilson,0.03,0.00
+2033,1008,P023,Gaming Chair,Furniture,2024-02-17,1,349.99,349.99,R003,Carol Davis,0.04,0.10
+2034,1009,P024,Wireless Speaker,Electronics,2024-02-18,2,149.99,299.98,R004,David Miller,0.03,0.00
+2035,1010,P025,Toaster Oven,Appliances,2024-02-19,1,119.99,119.99,R001,Alice Cooper,0.02,0.20
+2036,1011,P001,Laptop Pro X1,Electronics,2024-02-20,1,1299.99,1299.99,R002,Bob Wilson,0.05,0.00
+2037,1012,P026,Wardrobe Modern,Furniture,2024-02-21,1,599.99,599.99,R003,Carol Davis,0.04,0.00
+2038,1013,P027,Dishwasher Compact,Appliances,2024-02-22,1,449.99,449.99,R004,David Miller,0.04,0.15
+2039,1014,P028,Webcam HD,Electronics,2024-02-23,4,79.99,319.96,R001,Alice Cooper,0.02,0.00
+2040,1015,P029,Sofa 3-Seater,Furniture,2024-02-24,1,1199.99,1199.99,R002,Bob Wilson,0.06,0.05
+2041,1016,P030,Electric Kettle,Appliances,2024-02-25,2,59.99,119.98,R003,Carol Davis,0.02,0.00
+2042,1017,P031,Printer Wireless,Electronics,2024-02-26,1,199.99,199.99,R004,David Miller,0.03,0.30
+2043,1018,P032,Washing Machine,Appliances,2024-02-27,1,699.99,699.99,R001,Alice Cooper,0.05,0.00
+2044,1019,P033,Nightstand Set,Furniture,2024-02-28,2,149.99,299.98,R002,Bob Wilson,0.03,0.10
+2045,1020,P034,Fitness Tracker,Electronics,2024-03-01,3,199.99,599.97,R003,Carol Davis,0.04,0.00
+2046,1021,P035,Slow Cooker,Appliances,2024-03-02,1,89.99,89.99,R004,David Miller,0.02,0.25
+2047,1022,P036,Office Desk,Furniture,2024-03-03,1,399.99,399.99,R001,Alice Cooper,0.04,0.00
+2048,1023,P037,Security Camera,Electronics,2024-03-04,2,129.99,259.98,R002,Bob Wilson,0.03,0.20
+2049,1024,P038,Rice Cooker,Appliances,2024-03-05,1,79.99,79.99,R003,Carol Davis,0.02,0.00
+2050,1025,P039,Mattress Queen,Furniture,2024-03-06,1,799.99,799.99,R004,David Miller,0.05,0.15

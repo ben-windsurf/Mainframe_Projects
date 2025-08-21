@@ -1,0 +1,16 @@
+customer_id,customer_name,email,country,region,city,registration_date,customer_type
+1,John Smith,john.smith@email.com,USA,North America,New York,2023-01-15,Premium
+2,Maria Garcia,maria.garcia@email.com,Spain,Europe,Madrid,2023-02-20,Standard
+3,Li Wei,li.wei@email.com,China,Asia,Beijing,2023-03-10,Premium
+4,Emma Johnson,emma.johnson@email.com,Canada,North America,Toronto,2023-01-25,Standard
+5,Pierre Dubois,pierre.dubois@email.com,France,Europe,Paris,2023-04-05,Premium
+6,Yuki Tanaka,yuki.tanaka@email.com,Japan,Asia,Tokyo,2023-02-14,Standard
+7,Hans Mueller,hans.mueller@email.com,Germany,Europe,Berlin,2023-03-22,Premium
+8,Sarah Wilson,sarah.wilson@email.com,Australia,Oceania,Sydney,2023-01-30,Standard
+9,Carlos Rodriguez,carlos.rodriguez@email.com,Mexico,North America,Mexico City,2023-04-12,Premium
+10,Anna Kowalski,anna.kowalski@email.com,Poland,Europe,Warsaw,2023-02-28,Standard
+11,Ahmed Hassan,ahmed.hassan@email.com,Egypt,Africa,Cairo,2023-03-15,Standard
+12,Isabella Silva,isabella.silva@email.com,Brazil,South America,São Paulo,2023-01-18,Premium
+13,David Brown,david.brown@email.com,UK,Europe,London,2023-04-08,Standard
+14,Raj Patel,raj.patel@email.com,India,Asia,Mumbai,2023-02-05,Premium
+15,Sophie Martin,sophie.martin@email.com,Belgium,Europe,Brussels,2023-03-28,Standard

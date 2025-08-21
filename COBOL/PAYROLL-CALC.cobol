@@ -22,7 +22,7 @@
        01 PAYROLL-RECORD PIC X(80).
 
        WORKING-STORAGE SECTION.
-       01 WS-MONTHLY-PAY     PIC 9(6)V99.
+       01 WS-MONTHLY-PAY     PIC 9(4).99.
        01 WS-PAYROLL-LINE    PIC X(80).
        01 WS-EOF             PIC X VALUE "N".
 

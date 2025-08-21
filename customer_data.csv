@@ -1,0 +1,26 @@
+customer_id,customer_name,email,phone,address,city,state,country,registration_date,customer_type,credit_limit,preferred_contact_method
+1001,John Smith,john.smith@email.com,555-0101,123 Main St,New York,NY,USA,2023-01-15,Premium,50000,Email
+1002,Maria Garcia,maria.garcia@email.com,555-0102,456 Oak Ave,Los Angeles,CA,USA,2023-02-20,Standard,25000,Phone
+1003,Pierre Dubois,pierre.dubois@email.fr,33-1-4567,789 Rue de la Paix,Paris,IDF,France,2023-03-10,Premium,75000,Email
+1004,Hans Mueller,hans.mueller@email.de,49-30-1234,321 Unter den Linden,Berlin,BE,Germany,2023-01-25,Standard,30000,Email
+1005,Yuki Tanaka,yuki.tanaka@email.jp,81-3-5678,654 Shibuya,Tokyo,TK,Japan,2023-04-05,Premium,60000,Phone
+1006,Sarah Johnson,sarah.johnson@email.com,555-0103,987 Pine St,Chicago,IL,USA,2023-02-14,Standard,20000,Email
+1007,Carlos Rodriguez,carlos.rodriguez@email.es,34-91-2345,147 Gran Via,Madrid,MD,Spain,2023-03-22,Premium,45000,Phone
+1008,Emma Wilson,emma.wilson@email.co.uk,44-20-3456,258 Baker St,London,LN,United Kingdom,2023-01-30,Standard,35000,Email
+1009,Luigi Rossi,luigi.rossi@email.it,39-06-4567,369 Via del Corso,Rome,RM,Italy,2023-04-12,Premium,55000,Email
+1010,Chen Wei,chen.wei@email.cn,86-10-5678,741 Wangfujing,Beijing,BJ,China,2023-02-28,Standard,40000,Phone
+1011,Anna Kowalski,anna.kowalski@email.pl,48-22-6789,852 Nowy Swiat,Warsaw,MZ,Poland,2023-03-15,Premium,50000,Email
+1012,Miguel Santos,miguel.santos@email.br,55-11-7890,963 Avenida Paulista,Sao Paulo,SP,Brazil,2023-01-18,Standard,30000,Phone
+1013,Raj Patel,raj.patel@email.in,91-11-8901,159 Connaught Place,New Delhi,DL,India,2023-04-08,Premium,65000,Email
+1014,Sophie Martin,sophie.martin@email.ca,1-416-9012,753 Queen St,Toronto,ON,Canada,2023-02-25,Standard,25000,Phone
+1015,Ahmed Hassan,ahmed.hassan@email.eg,20-2-0123,357 Tahrir Square,Cairo,C,Egypt,2023-03-30,Premium,40000,Email
+1016,Olga Petrov,olga.petrov@email.ru,7-495-1234,951 Red Square,Moscow,MOW,Russia,2023-01-12,Standard,35000,Phone
+1017,James Brown,james.brown@email.au,61-2-2345,486 George St,Sydney,NSW,Australia,2023-04-20,Premium,70000,Email
+1018,Isabella Silva,isabella.silva@email.mx,52-55-3456,624 Zocalo,Mexico City,CDMX,Mexico,2023-02-10,Standard,28000,Phone
+1019,Lars Andersen,lars.andersen@email.dk,45-33-4567,792 Stroget,Copenhagen,H,Denmark,2023-03-18,Premium,48000,Email
+1020,Fatima Al-Zahra,fatima.alzahra@email.ae,971-4-5678,135 Sheikh Zayed Rd,Dubai,DU,United Arab Emirates,2023-01-28,Standard,55000,Email
+1021,Roberto Fernandez,roberto.fernandez@email.ar,54-11-6789,246 Florida St,Buenos Aires,C,Argentina,2023-04-15,Premium,42000,Phone
+1022,Ingrid Larsson,ingrid.larsson@email.se,46-8-7890,468 Drottninggatan,Stockholm,AB,Sweden,2023-02-22,Standard,38000,Email
+1023,Dimitri Popov,dimitri.popov@email.bg,359-2-8901,579 Vitosha Blvd,Sofia,SG,Bulgaria,2023-03-25,Premium,32000,Phone
+1024,Priya Sharma,priya.sharma@email.in,91-22-9012,681 Marine Drive,Mumbai,MH,India,2023-01-20,Standard,45000,Email
+1025,Thomas Anderson,thomas.anderson@email.no,47-22-0123,793 Karl Johans gate,Oslo,03,Norway,2023-04-02,Premium,52000,Phone
